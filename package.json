@@ -1,0 +1,21 @@
+{
+  "name": "aurora",
+  "version": "1.0.0",
+  "description": "<br/>\r <p align=\"center\">\r   <a href=\"https://github.com/pouyasdz/Aurora\">\r     <img src=\"images/logo.png\" alt=\"Logo\" width=\"80\" height=\"80\">\r   </a>",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pouyasdz/Aurora.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pouyasdz/Aurora/issues"
+  },
+  "homepage": "https://github.com/pouyasdz/Aurora#readme"
+}
