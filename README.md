@@ -4,7 +4,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center"> Aurora</h3>
+  <h3 align="center">Aurora</h3>
 
   <p align="center">
     Best option for moderate text message on channel discord
