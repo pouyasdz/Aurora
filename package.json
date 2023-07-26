@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/pouyasdz/Aurora/issues"
   },
-  "homepage": "https://github.com/pouyasdz/Aurora#readme"
+  "homepage": "https://github.com/pouyasdz/Aurora#readme",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1"
+  }
 }
